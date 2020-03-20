@@ -17,12 +17,12 @@ on:
     paths:
       - 'lienol.config'
   schedule:
-    - cron: 0 7 * * 1
-    - cron: 0 7 * * 2
+#    - cron: 0 7 * * 1
+#    - cron: 0 7 * * 2
     - cron: 0 7 * * 3
-    - cron: 0 7 * * 4
+#    - cron: 0 7 * * 4
     - cron: 0 7 * * 5
-    - cron: 0 7 * * 6
+#    - cron: 0 7 * * 6
     - cron: 0 7 * * 0
 #  watch:
 #    types: [started]

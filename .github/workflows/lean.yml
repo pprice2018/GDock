@@ -19,10 +19,10 @@ on:
 #  schedule:
 #    - cron: 0 7 * * 1
 #    - cron: 0 7 * * 2
-    - cron: 0 7 * * 3
+    - cron: 0 9 * * 6
 #    - cron: 0 7 * * 4
 #    - cron: 0 7 * * 5
-   - cron: 0 8 * * 6
+    - cron: 0 9 * * 6
 #    - cron: 0 7 * * 0
 #  watch:
 #    types: started
